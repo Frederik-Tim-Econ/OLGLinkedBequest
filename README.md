@@ -17,10 +17,6 @@ This module requires the following:
 		```
 		!conda install -y quantecon
 		```
-		3. For usage type:
-		```
-		import quantecon as qe
-		```
 		
 OVERVIEW OF FILES
 -----------------
