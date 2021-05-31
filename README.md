@@ -7,6 +7,9 @@ This module requires the following:
  * Python (3.7)
  * Quantecon package for Python (installed by prompt) (see https://quantecon.org/quantecon-py/) 
  	* type into cmd 'pip install quantecon'
+	 ```
+	pip install quantecon
+	```
 
 OVERVIEW OF FILES
 -----------------
