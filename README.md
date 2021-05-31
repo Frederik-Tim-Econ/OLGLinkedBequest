@@ -5,7 +5,7 @@ REQUIREMENTS
 -----------------
 This module requires the following:
  * Python (3.7)
- * Quantecon package for Python (installed by prompt) (see https://quantecon.org/quantecon-py/ ) 
+ * Quantecon package for Python (installed by prompt) (see https://quantecon.org/quantecon-py/) 
 
 OVERVIEW OF FILES
 -----------------
@@ -25,7 +25,7 @@ OVERVIEW OF FILES
 	* plots():	  Creates relevant plots for simulation results, including convergence plots.
 	* Table():	  Creates a table that compares model moments to empirical moments.
 
- * tools.py: (By Jeppe Druedahl https://sites.google.com/view/jeppe-druedahl/home#h.p_TasMkWH4Yocz )
+ * tools.py: (By Jeppe Druedahl https://sites.google.com/view/jeppe-druedahl/home)
 	* Contains helper functions that support the funcions of Model.py.
 
 GUIDE TO RUN
