@@ -6,11 +6,22 @@ REQUIREMENTS
 This module requires the following:
  * Python (3.7)
  * Quantecon package for Python (installed by prompt) (see https://quantecon.org/quantecon-py/) 
- 	* type into cmd 'pip install quantecon'
-	 ```
-	pip install quantecon
-	```
-
+ 	* If you do not use Anaconda follow this: https://quantecon.org/quantecon-py/
+	
+	* If you are using Anaconda, type into Anaconda prompt: (in order to install quantecon)
+		1. Type into cmd:
+		```
+		pip install quantecon
+		```
+		2. Type into your Python compiler prompt:
+		```
+		!conda install -y quantecon
+		```
+		3. For usage type:
+		```
+		import quantecon as qe
+		```
+		
 OVERVIEW OF FILES
 -----------------
  * Main.py:
