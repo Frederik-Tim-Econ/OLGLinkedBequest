@@ -5,7 +5,7 @@ REQUIREMENTS
 -----------------
 This module requires the following:
  * Python (3.7)
- * Quantecon package for Python (installed by prompt) (see https://quantecon.org/quantecon-py/]
+ * Quantecon package for Python (installed by prompt) (see https://quantecon.org/quantecon-py/ ) 
 
 OVERVIEW OF FILES
 -----------------
