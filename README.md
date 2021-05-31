@@ -25,7 +25,7 @@ OVERVIEW OF FILES
 	* plots():	  Creates relevant plots for simulation results, including convergence plots.
 	* Table():	  Creates a table that compares model moments to empirical moments.
 
- * tools.py: (By Jeppe Druedahl)
+ * tools.py: (By Jeppe Druedahl https://sites.google.com/view/jeppe-druedahl/home#h.p_TasMkWH4Yocz )
 	* Contains helper functions that support the funcions of Model.py.
 
 GUIDE TO RUN
