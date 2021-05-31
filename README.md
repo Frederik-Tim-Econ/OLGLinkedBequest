@@ -8,7 +8,7 @@ This module requires the following:
  * Quantecon package for Python 
  	* If you do not use Anaconda follow this: https://quantecon.org/quantecon-py/
 	
-	* If you are using Anaconda, type into Anaconda prompt: (in order to install quantecon)
+	* If you are using Anaconda:
 		1. Type into cmd:
 		```
 		pip install quantecon
