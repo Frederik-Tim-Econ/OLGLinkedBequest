@@ -1,4 +1,4 @@
-# !!Coming soon!!  Solving, simulating and estimating OLG models with linked bequest and intergenerational skill transmission   
+# Coming soon! - Solving, simulating and estimating OLG models with linked bequest and intergenerational skill transmission   
 
 
 REQUIREMENTS
