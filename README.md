@@ -1,4 +1,4 @@
-# Coming soon! - Solving, simulating and estimating OLG models with linked bequest and intergenerational skill transmission   
+Solving, simulating and estimating OLG models with linked bequest and intergenerational skill transmission   
 
 
 REQUIREMENTS
@@ -18,7 +18,7 @@ This module requires the following:
 		!conda install -y quantecon
 		```
 		
-OVERVIEW OF FILES
+OVERVIEW OF FILES (scripts)
 -----------------
  * Main.py:
 	* Runs the whole code.
