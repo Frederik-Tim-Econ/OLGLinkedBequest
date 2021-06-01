@@ -52,4 +52,4 @@ Results
 -----------------
 
 ### Consumption path
-<img src="https://github.com/TimDominikMaurer/OLGLinkedBequest/tree/main/figtabsConsumptionPath.png" width="400"/>
+<img src="https://github.com/TimDominikMaurer/OLGLinkedBequest/blob/main/figtabs/CashOnHandPath.png" width="400"/>
