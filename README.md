@@ -51,7 +51,7 @@ GUIDE TO RUN
 Results
 -----------------
 
-<img src="https://github.com/TimDominikMaurer/OLGLinkedBequest/blob/main/figtabs/sniptable4.PNG" width="400"/>
+<img src="https://github.com/TimDominikMaurer/OLGLinkedBequest/blob/main/figtabs/sniptable4.PNG" width="800"/>
 
 ### Consumption path
 <img src="https://github.com/TimDominikMaurer/OLGLinkedBequest/blob/main/figtabs/ConsumptionPath.png" width="400"/>
