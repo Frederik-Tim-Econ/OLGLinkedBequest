@@ -51,5 +51,5 @@ GUIDE TO RUN
 Results
 -----------------
 
-# Consumption path
-<img src="https://github.com/TimDominikMaurer/OLGLinkedBequest/figtabs/ConsumptionPath.png" width="400"/>
+### Consumption path
+<img src="https://github.com/TimDominikMaurer/OLGLinkedBequest/tree/main/figtabsConsumptionPath.png" width="400"/>
