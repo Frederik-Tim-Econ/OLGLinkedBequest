@@ -53,7 +53,9 @@ Results
 
 ### Consumption path
 <img src="https://github.com/TimDominikMaurer/OLGLinkedBequest/blob/main/figtabs/ConsumptionPath.png" width="400"/>
+
 ### Wealth path
 <img src="https://github.com/TimDominikMaurer/OLGLinkedBequest/blob/main/figtabs/SavingsPath.png" width="400"/>
+
 ### Wealth distribution at retirement
 <img src="https://github.com/TimDominikMaurer/OLGLinkedBequest/blob/main/figtabs/WealthDist.png" width="400"/>
