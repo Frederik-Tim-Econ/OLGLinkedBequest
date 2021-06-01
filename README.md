@@ -48,4 +48,8 @@ GUIDE TO RUN
 4. Run sim() to simulate an economy given policy functions.
 5. If desired, estimate the model by setting target moments and starting values, and running "solution = optimize.minimize(...)". The solution can
 
+Results
+-----------------
 
+# Consumption path
+<img src="https://github.com/TimDominikMaurer/OLGLinkedBequest/figtabs/ConsumptionPath.png" width="400"/>
