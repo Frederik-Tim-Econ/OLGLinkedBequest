@@ -53,10 +53,10 @@ Results
 
 <img src="https://github.com/TimDominikMaurer/OLGLinkedBequest/blob/main/figtabs/sniptable4.PNG" width="1400"/>
 
-### Avg. consumption path (by skill/permanent income type)
+### Consumption path (means by skill type)
 <img src="https://github.com/TimDominikMaurer/OLGLinkedBequest/blob/main/figtabs/ConsumptionPath.png" width="400"/>
 
-### Avg. wealth path (by skill/permanent income type)
+### Wealth path (means by skill type)
 <img src="https://github.com/TimDominikMaurer/OLGLinkedBequest/blob/main/figtabs/SavingsPath.png" width="400"/>
 
 ### Wealth distribution at retirement
