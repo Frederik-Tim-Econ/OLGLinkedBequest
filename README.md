@@ -48,6 +48,15 @@ GUIDE TO RUN
 4. Run sim() to simulate an economy given policy functions.
 5. If desired, estimate the model by setting target moments and starting values, and running "solution = optimize.minimize(...)". The solution can
 
+Model features
+-----------------
+1. Overlapping generations
+2. Family-linked voluntary luxury bequest
+3. Family-linked accidental bequest
+4. Family-linked transmission of skill
+5. Permanent income inequality
+6. Persistent idiosyncratic income risk
+
 Results
 -----------------
 
