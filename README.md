@@ -60,13 +60,13 @@ Model features
 Results
 -----------------
 
-<img src="https://github.com/TimDominikMaurer/OLGLinkedBequest/blob/main/figtabs/sniptable4.PNG" width="1400"/>
+<img src="https://github.com/Frederik-Tim-Econ/OLGLinkedBequest/blob/main/figtabs/sniptable4.PNG" width="1400"/>
 
 ### Consumption path (means by skill type)
-<img src="https://github.com/TimDominikMaurer/OLGLinkedBequest/blob/main/figtabs/ConsumptionPath.png" width="400"/>
+<img src="https://github.com/Frederik-Tim-Econ/OLGLinkedBequest/blob/main/figtabs/ConsumptionPath.png" width="400"/>
 
 ### Wealth path (means by skill type)
-<img src="https://github.com/TimDominikMaurer/OLGLinkedBequest/blob/main/figtabs/SavingsPath.png" width="400"/>
+<img src="https://github.com/Frederik-Tim-Econ/OLGLinkedBequest/blob/main/figtabs/SavingsPath.png" width="400"/>
 
 ### Wealth distribution at retirement
-<img src="https://github.com/TimDominikMaurer/OLGLinkedBequest/blob/main/figtabs/WealthDist.png" width="400"/>
+<img src="https://github.com/Frederik-Tim-Econ/OLGLinkedBequest/blob/main/figtabs/WealthDist.png" width="400"/>
